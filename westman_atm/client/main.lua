@@ -1,4 +1,4 @@
-ESX = exports["es_extended"]:getSharedObject()
+ESX = exports[Config.Engine]:getSharedObject()
 
 local ATMPositions = Config.ATM
 local NuiOpen = false
