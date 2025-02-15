@@ -6,11 +6,13 @@ DepositButton = "Deposit",
 WithdrawButton = "Withdraw",
 ATMTitle = "ATM",
 
+-- Item accessibility
 Item = {
     mandatory = false,
     item = "mastercard"
 },
 
+-- Locations on ATM's
 ATM = {
     vec3(296.4352, -894.0205, 29.2307),
     vec3(295.7738, -895.8547, 29.2163),
