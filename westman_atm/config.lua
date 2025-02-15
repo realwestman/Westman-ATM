@@ -1,5 +1,8 @@
 Config = {
 
+-- Your esx basename
+Engine = "es_extended"
+
 -- UI related
 Currency = "$",
 DepositButton = "Deposit",
