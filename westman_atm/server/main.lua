@@ -1,4 +1,4 @@
-ESX = exports["es_extended"]:getSharedObject()
+ESX = exports[Config.Engine]:getSharedObject()
 
 
 RegisterServerEvent("westman_atm:GetPlayerEconomy", function()
